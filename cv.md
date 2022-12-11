@@ -11,19 +11,19 @@
 * __Discord:__ Natalya Danilyan (@NDanilyashka)
 * __Telegram:__ @Ndanilyan
 
-----------------------------------------------
+----------------------
 
 ## **About Me**
 
 _I'm 33 years old. I graduated from the University of Water Communications with a degree in economics.I'm on maternity leave and this is a great opportunity to gain new knowledge_
 
--------------------------------
+------------------------
 
 ## **Skills**
 
 * no skills
 
----------------------------------------
+------------------------------
 
 ## **Code Example**
 
@@ -37,7 +37,7 @@ function greet () {
 
 ## **Work experience:**
 
-don't have yet
+* don't have yet
 
 ------------------------
 
